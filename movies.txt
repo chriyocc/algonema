@@ -1,0 +1,12 @@
+1|Interstellar|Sci-Fi|169|8.6|2014
+2|The Dark Knight|Action|152|9.0|2008
+3|Titanic|Drama|195|7.8|1997
+4|The Conjuring|Horror|112|7.5|2013
+5|Avengers Endgame|Action|181|8.4|2019
+6|Parasite|Drama|132|8.6|2019
+7|Inception|Sci-Fi|148|8.8|2010
+8|The Mask|Comedy|101|6.9|1994
+9|A Quiet Place|Horror|90|7.5|2018
+10|The Hangover|Comedy|100|7.7|2009
+11|Polong|Horror|120|9.0|2026
+12|Yoyo & Chris|Romance|50|6.8|1999
